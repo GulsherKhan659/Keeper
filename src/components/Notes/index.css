@@ -1,0 +1,13 @@
+.title .MuiInputBase-input{
+    font-weight: 400 !important;
+    font-size: 1.375rem !important; 
+}
+.text .MuiInputBase-input{
+    font-weight: 400 !important;
+    font-size: 1rem !important; 
+}
+.statusSelect .MuiInputBase-root{
+    position: absolute !important;
+    right: 0 !important;
+    margin-right: 15px !important;
+}
